@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "267896053122",
+    "firebase_url": "https://your-law.firebaseio.com",
+    "project_id": "your-law",
+    "storage_bucket": "your-law.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267896053122:android:c1c57a20ace339a1c8039b",
+        "android_client_info": {
+          "package_name": "com.example.Lawyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267896053122-e1uvjv2k18hquj7bfn9og76bcplfjtac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl1nQvPtQKVnSeElx0jocvMog0lPC2Mb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267896053122-e1uvjv2k18hquj7bfn9og76bcplfjtac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267896053122:android:2dccda388fd74488c8039b",
+        "android_client_info": {
+          "package_name": "com.example.Lawyerito_Admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267896053122-e1uvjv2k18hquj7bfn9og76bcplfjtac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl1nQvPtQKVnSeElx0jocvMog0lPC2Mb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267896053122-e1uvjv2k18hquj7bfn9og76bcplfjtac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267896053122:android:5d3c1f360c50a1f4c8039b",
+        "android_client_info": {
+          "package_name": "com.example.Lawyerito_Admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267896053122-e1uvjv2k18hquj7bfn9og76bcplfjtac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl1nQvPtQKVnSeElx0jocvMog0lPC2Mb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267896053122-e1uvjv2k18hquj7bfn9og76bcplfjtac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
